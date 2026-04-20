@@ -16,8 +16,8 @@ I am an aspiring IT Support Technician with hands-on experience in troubleshooti
 * Practiced real IT support tasks in a Windows Server environment
 
 ### Screenshot
+Active directory users and computers.png
 
-### Screenshot
 
 ![AD Users](Active directory users and computers.png)
 
