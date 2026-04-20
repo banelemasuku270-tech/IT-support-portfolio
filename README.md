@@ -17,7 +17,8 @@ I am an aspiring IT Support Technician with hands-on experience in troubleshooti
 
 ### Screenshot
 
-![AD Users](./ad-users.png)
+<img width="1366" height="662" alt="Active directory users and computers" src="https://github.com/user-attachments/assets/3574d14f-72d5-475a-8c06-1d6bae7d0748" />
+
 
 ---
 
