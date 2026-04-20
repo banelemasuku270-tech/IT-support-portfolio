@@ -1,5 +1,3 @@
-# 🖥️ IT Support Portfolio
-
 ## 👋 About Me
 I am an aspiring IT Support Technician with hands-on experience in:
 
@@ -31,72 +29,41 @@ This portfolio demonstrates practical IT support skills in real-world scenarios.
 ### 1. Active Directory Management
 
 #### 📸 User Creation  
-
 Created and managed user accounts in Active Directory.
 
 ![User Creation](ad-create-user-form.png)
 
-### Configuring Account Details.
+---
 
-![User Creation](ad-configure-account-details.png)
+#### 📸 Configure Account Details  
+Configured user account details such as login settings and properties.
 
-### Users are properly set up in the Domain.
+![Account Details](ad-configure-account-details.png)
 
-![User Creation](ad-user-list.png)
+---
 
-📸 Group Assignment  
-### Organising Users into Security Groups.
+#### 📸 User Verification  
+Confirmed that users are properly created and listed in the domain.
 
+![User List](ad-user-list.png)
+
+---
+
+#### 📸 Organising Users into Security Groups  
 Users were assigned to security groups in Active Directory to manage access permissions efficiently.
 
-![User Creation](ad-security-groups.png)
+![Security Groups](ad-security-groups.png)
 
-### User Group Membership (Member Of Tab).
+---
 
-Users were assigned to the correct security groups for access control and permissions management.
+#### 📸 User Group Membership (Member Of Tab)  
+Verified that users are assigned to the correct security groups for access control and permissions management.
 
-![User Group Membership](ad-add-user-to-group.png)
+![User Membership](ad-add-user-to-group.png)
 
-### Security Group Membership.
+---
 
-Users have been correctly assigned to the appropriate group for access control and permissions.
+#### 📸 Security Group Membership  
+Confirmed that users are correctly assigned to security groups with appropriate permissions.
 
 ![Group Members](ad-group-members.png)
-
-
-📸 Password Reset  
-Reset user passwords and managed account permissions.
-
-**What I did:**
-- Created and managed user accounts
-- Organized users into groups
-- Reset passwords and managed permissions
-- Practiced IT administration tasks in Windows Server environment
-
----
-
-### 2. Windows Server Setup
-
-📸 Server Dashboard  
-Installed and accessed Windows Server environment.
-
-📸 Roles & Features Installation  
-Configured basic server roles.
-
-📸 System Settings & Users  
-Confirmed system identity and domain membership via Server Manager (Local Server).
-
-📸 System Information (Command Prompt)  
-Verified system details using `systeminfo` command.
-
-📸 Network Configuration  
-Verified IP address and DNS settings using `ipconfig /all`.
-
-**What I did:**
-- Installed Windows Server
-- Configured basic server roles
-- Managed system settings and user configuration
-- Verified network and system information
-
----
-
