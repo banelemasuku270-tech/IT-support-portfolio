@@ -36,7 +36,11 @@ Created and managed user accounts in Active Directory.
 ![User Creation](ad-create-user-form.png)
 
 📸 Group Assignment  
-Organized users into security groups.
+### Organising Users into Security Groups
+
+Users were assigned to security groups in Active Directory to manage access permissions efficiently.
+
+![Security Groups](ad-security-groups.png)
 
 📸 Password Reset  
 Reset user passwords and managed account permissions.
