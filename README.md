@@ -31,24 +31,33 @@ This portfolio demonstrates practical IT support skills in real-world scenarios.
 ### 1. Active Directory Management
 
 #### 📸 User Creation  
+
 Created and managed user accounts in Active Directory.
 
 ![User Creation](ad-create-user-form.png)
 
+### Configuring Account Details.
+
+![User Creation](ad-configure-account-details.png)
+
+### Users are properly set up in the Domain.
+
+![User Creation](ad-user-list.png)
+
 📸 Group Assignment  
-### Organising Users into Security Groups
+### Organising Users into Security Groups.
 
 Users were assigned to security groups in Active Directory to manage access permissions efficiently.
 
 ![User Creation](ad-security-groups.png)
 
-### User Group Membership (Member Of Tab)
+### User Group Membership (Member Of Tab).
 
 Users were assigned to the correct security groups for access control and permissions management.
 
 ![User Group Membership](ad-add-user-to-group.png)
 
-### Security Group Membership
+### Security Group Membership.
 
 Users have been correctly assigned to the appropriate group for access control and permissions.
 
