@@ -19,7 +19,7 @@ I am an aspiring IT Support Technician with hands-on experience in troubleshooti
 
 ### Screenshot
 
-![AD Users](./ad-users.png)
+![AD Users](Active directory users and computers.png)
 
 ---
 
