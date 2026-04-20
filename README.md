@@ -48,6 +48,12 @@ Users were assigned to the correct security groups for access control and permis
 
 ![User Group Membership](ad-add-user-to-group.png)
 
+### Security Group Membership
+
+Users have been correctly assigned to the appropriate group for access control and permissions.
+
+![Group Members](ad-group-members.png)
+
 
 📸 Password Reset  
 Reset user passwords and managed account permissions.
