@@ -40,7 +40,14 @@ Created and managed user accounts in Active Directory.
 
 Users were assigned to security groups in Active Directory to manage access permissions efficiently.
 
-![Security Groups](ad-security-groups.png)
+![User Creation](ad-security-groups.png)
+
+### User Group Membership (Member Of Tab)
+
+Users were assigned to the correct security groups for access control and permissions management.
+
+![User Group Membership](ad-add-user-to-group.png)
+
 
 📸 Password Reset  
 Reset user passwords and managed account permissions.
