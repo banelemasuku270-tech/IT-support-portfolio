@@ -32,12 +32,6 @@ This portfolio demonstrates practical IT support skills in real-world scenarios.
 
 📸 User Creation  
 Created and managed user accounts in Active Directory.
-### User Creation
-
-Created and managed user accounts in Active Directory.
-
-![User Creation](AD-Screenshots/ad-create-user.png)
-
 
 📸 Group Assignment  
 Organized users into security groups.
