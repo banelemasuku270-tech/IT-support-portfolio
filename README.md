@@ -17,7 +17,13 @@ I am an aspiring IT Support Technician with hands-on experience in troubleshooti
 
 ### Screenshot
 
+### Screenshot
+
 ![AD Users](./ad-users.png)
+
+---
+
+## Skills how to insert screenshots  step by step
 
 ---
 
