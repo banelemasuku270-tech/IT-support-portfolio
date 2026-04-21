@@ -82,6 +82,28 @@ Configured NTFS permissions by assigning the security group to the shared folder
 
 ![NTFS Permissions](ad-HR-document.png)
 
+#### 📸 Group Policy Object (GPO) Implimentation
+I opened a Group Policy Objects (GPO) and created objects folder named password policy.
 
+![Group Policy Objects](ad-gpo-password.png)
+
+#### 📸  Linking (GPO) 
+I Linked the GPO to the appropriate Organizational Unit (OU).
+
+![Group Policy Objects](ad-gpo-link.png)
+
+#### 📸 Edited the GPO
+Edited the GPO using the Group Policy Management Editor
+
+![GPO Edit](ad-password-edit.png)
+
+
+#### 📸 Configured Security Settings
+Configured security settings such as Password must meet complexity requirement
+
+![Security settings](ad-configure-settings.png)
+
+#### 📸 Applied GPO update
+Applied the Group Policy update using gpupdate /force on client machines.
 
 
