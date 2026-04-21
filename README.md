@@ -71,7 +71,7 @@ Confirmed that the user is successfully added to the correct security group usin
 ---
 
 #### 📸 Group Policy Object (GPO) Implementation  
-Created a new Group Policy Object (GPO) in Active Directory and named it "Password Policy" to manage domain security settings.
+Created a new Group Policy Object (GPO) in Active Directory and named it "Password Policy".
 
 ![Group Policy Objects](ad-gpo-password.png)
 
