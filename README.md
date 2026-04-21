@@ -106,7 +106,7 @@ Applied the updated Group Policy settings using the `gpupdate /force` command on
 ### 2. Windows Server Administration
 
 #### 📸 Installed Windows Server
-Installed and configured Windows Server environment for system administration tasks.
+Installed and configured Windows Server environment for system administration.
 
 ![Windows Server](ad-server.png)
 
@@ -116,7 +116,7 @@ Installed Windows Server roles such as AD DS and DNS using Server Manager for do
 ![Add Roles and Features](ad-roles-png.png)
 
 #### 📸 Network Configuration
-Verified network settings including IP addressess and DNS configuration.
+Verified network settings including IP addresses and DNS configuration.
 
 ![Network and Internet](ad-network.png)
 
