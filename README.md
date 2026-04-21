@@ -115,9 +115,9 @@ Installed Windows Server roles such as AD DS and DNS using Server Manager for do
 
 ![Roles and Features](ad-features.png)
 
+#### 📸 Network Configuration
+Verified network settings including IP addressess and DNS configuration.
 
-
-
-
+![Network and Internet](ad-network.png)
 
 
