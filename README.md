@@ -115,10 +115,15 @@ Installed Windows Server roles such as AD DS and DNS using Server Manager for do
 
 ![Add Roles and Features](ad-roles-png.png)
 
+
 #### 📸 Network Configuration
 Verified network settings including IP addresses and DNS configuration.
 
 ![Network and Internet](ad-network.png)
 
 
+#### 📸 Domain Controller Configuration  
+Configured the server as a domain controller and verified successful domain setup.
+
+![Domain Setup](ad-domain..png)
 
