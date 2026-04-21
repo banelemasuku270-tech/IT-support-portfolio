@@ -56,30 +56,31 @@ Users were assigned to security groups in Active Directory to manage access perm
 
 ---
 
-#### 📸 User Group Membership (Member Of Tab)  
-Verified that users are assigned to the correct security groups for access control and permissions management.
+#### 📸 Adding User to Security Group  
+Assigned a user account to the appropriate security group to manage access through group-based permissions.
 
 ![User Membership](ad-add-user-to-group.png)
 
 ---
 
-#### 📸 Security Group Membership  
-Confirmed that users are correctly assigned to security groups with appropriate permissions.
+#### 📸 Verifying Group Membership (Member Of Tab)  
+Confirmed that the user is successfully added to the correct security group using the "Member Of" tab in Active Directory.
 
 ![Group Members](ad-user-group.png)
 
-#### 📸 Creating a Shared Folder on Local Drive (c)
-Applying permissions through group-based access control on shared resources. 
- 
+---
+
+#### 📸 Creating a Shared Folder (C: Drive)  
+Created a shared folder on the local drive to store and manage organizational files.
+
 ![Shared Folder](ad-add-group.png)
 
+---
 
-#### 📸 NTFS Folder Permissions  
-Configured file system (NTFS) permissions by assigning the security group to a shared folder.
+#### 📸 Assigning NTFS Permissions  
+Configured NTFS permissions by assigning the security group to the shared folder, ensuring controlled access based on group membership.
 
 ![NTFS Permissions](ad-HR-document.png)
-
-
 
 
 
