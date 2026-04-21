@@ -127,3 +127,12 @@ Configured the server as a domain controller and verified successful domain setu
 
 ![Domain Setup](ad-domain..png)
 
+### 3.Cisco Packet tracer
+
+
+
+
+
+
+
+
