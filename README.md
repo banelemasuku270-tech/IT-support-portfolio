@@ -2,7 +2,7 @@
 I am an aspiring IT Support Technician with hands-on experience in:
 
 - Active Directory (AD)
-- Windows Server Administration
+- Windows Server 
 - Cisco Networking Basics
 - ServiceNow Ticketing System
 - Hardware troubleshooting and repair
@@ -102,3 +102,14 @@ Configured password policy settings, including enabling password complexity requ
 Applied the updated Group Policy settings using the `gpupdate /force` command on client machines to ensure immediate enforcement.
 
 ![Gpupdate](ad-gpupdate.png)
+
+### 2. Windows Server Administration
+
+#### 📸 Installed Windows Server
+Installed and configured Windows Server environment for system administration tasks.
+
+![Windows Server](ad-server.png)
+
+
+
+
