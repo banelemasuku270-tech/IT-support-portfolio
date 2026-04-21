@@ -110,6 +110,14 @@ Installed and configured Windows Server environment for system administration ta
 
 ![Windows Server](ad-server.png)
 
+#### 📸 Installed Roles and Features
+Installed Windows Server roles such as AD DS and DNS using Server Manager for domain and network services configuration.
+
+![Roles and Features](ad-features.png)
+
+
+
+
 
 
 
