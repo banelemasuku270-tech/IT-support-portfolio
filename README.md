@@ -66,4 +66,21 @@ Verified that users are assigned to the correct security groups for access contr
 #### 📸 Security Group Membership  
 Confirmed that users are correctly assigned to security groups with appropriate permissions.
 
-![Group Members](ad-group-members.png)
+![Group Members](ad-user-group.png)
+
+#### 📸 Creating a Shared Folder on Local Drive (c)
+Applying permissions through group-based access control on shared resources. 
+ 
+![Shared Folder](ad-add-group.png)
+
+
+#### 📸 NTFS Folder Permissions  
+Configured file system (NTFS) permissions by assigning the security group to a shared folder.
+
+![NTFS Permissions](ad-HR-document.png)
+
+
+
+
+
+
