@@ -70,40 +70,35 @@ Confirmed that the user is successfully added to the correct security group usin
 
 ---
 
-#### 📸 Creating a Shared Folder (C: Drive)  
-Created a shared folder on the C: drive for file storage and controlled access.
-
-![Shared Folder](ad-add-group.png)
-
----
-
-#### 📸 Assigning NTFS Permissions  
-Configured NTFS permissions by assigning the security group to the shared folder, ensuring controlled access based on group membership.
-
-![NTFS Permissions](ad-HR-document.png)
-
-#### 📸 Group Policy Object (GPO) Implimentation
-I opened a Group Policy Objects (GPO) and created objects folder named password policy.
+#### 📸 Group Policy Object (GPO) Implementation  
+Created a new Group Policy Object (GPO) in Active Directory and named it "Password Policy" to manage domain security settings.
 
 ![Group Policy Objects](ad-gpo-password.png)
 
-#### 📸  Linking (GPO) 
-I Linked the GPO to the appropriate Organizational Unit (OU).
+---
+
+#### 📸 Linking the GPO to an Organizational Unit (OU)  
+Linked the Group Policy Object (GPO) to the appropriate Organizational Unit (OU) to ensure the policy is applied to targeted users and computers.
 
 ![Group Policy Objects](ad-gpo-link.png)
 
-#### 📸 Edited the GPO
-Edited the GPO using the Group Policy Management Editor
+---
+
+#### 📸 Editing the GPO  
+Edited the Group Policy Object using the Group Policy Management Editor to configure security settings.
 
 ![GPO Edit](ad-password-edit.png)
 
+---
 
-#### 📸 Configured Security Settings
-Configured security settings such as Password must meet complexity requirement
+#### 📸 Configuring Security Settings  
+Configured password policy settings, including enabling password complexity requirements to improve domain security.
 
 ![Security settings](ad-configure-settings.png)
 
-#### 📸 Applied GPO update
-Applied the Group Policy update using gpupdate /force on client machines.
+---
 
+#### 📸 Applying Group Policy Update  
+Applied the updated Group Policy settings using the `gpupdate /force` command on client machines to ensure immediate enforcement.
 
+![Gpupdate](ad-gpupdate.png)
