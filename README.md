@@ -71,7 +71,7 @@ Confirmed that the user is successfully added to the correct security group usin
 ---
 
 #### 📸 Creating a Shared Folder (C: Drive)  
-Created a shared folder on the local drive to store and manage organizational files.
+Created a shared folder on the C: drive for file sharing and access control.
 
 ![Shared Folder](ad-add-group.png)
 
