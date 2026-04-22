@@ -135,8 +135,20 @@ Created a basic network topology using Cisco Packet Tracer including PCs, switch
 ![Network Topology](network-topology..PNG)
 
 #### 📸 IP Address Configuration
-Configured static IP addresses on end devices to enable network communication.
+Configured static IP addresses and subnet mask on end devices to enable network communication.
 
 ![IP Config](cisco-ip-config..PNG)
 
 ![IP Config](cisco-ip-config-pc2..PNG)
+
+#### 📸 Connectivity Test (PING)
+Verified network communication using the ping command between devices.
+
+![Ping Test](cisco-ping-test..PNG)
+
+
+
+
+
+
+
