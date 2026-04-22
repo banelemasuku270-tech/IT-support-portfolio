@@ -129,9 +129,10 @@ Configured the server as a domain controller and verified successful domain setu
 
 ### 3.Cisco Packet tracer
 
+#### 📸 Network Topology Setup  
+Created a basic network topology using Cisco Packet Tracer including PCs, switches, and a router.
 
-
-
+![Network Topology](network-topology..PNG)
 
 
 
