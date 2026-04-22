@@ -146,9 +146,9 @@ Verified network communication using the ping command between devices.
 
 ![Ping Test](cisco-ping-test..PNG)
 
+#### 📸 Router/Switch Configuration (BASIC ) 
+Used CLI commands to verify network interfaces and device status.
 
+![CLI](cisco-CLI..PNG)
 
-
-
-
-
+![CLI](CLI-switch..PNG)
