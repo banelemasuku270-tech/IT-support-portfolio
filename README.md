@@ -139,8 +139,8 @@ Created a basic network topology using Cisco Packet Tracer including PCs, switch
 #### 📸 Router and Switch Configuration (Basic)  
 Used CLI commands in Cisco devices to configure interfaces, assign IP addresses, and verify network connectivity.
 
-![CLI Router](cisco-cli-router.png)  
-![CLI Switch](cisco-cli-switch.png)
+![CLI Router](cisco-cli-router.png.PNG)  
+![CLI Switch](cisco-cli-switch.png.PNG)
 
 ---
 
