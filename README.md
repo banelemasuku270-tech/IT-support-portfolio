@@ -138,4 +138,4 @@ Created a basic network topology using Cisco Packet Tracer including PCs, switch
 Configured static IP addresses on end devices to enable network communication.
 
 ![IP Config](cisco-ip-config..PNG)
-
+![IP Config](cisco-ip-config-pc2..PNG)
