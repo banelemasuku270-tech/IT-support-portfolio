@@ -155,7 +155,7 @@ Configured static IP addresses, subnet masks, and default gateways on end device
 #### 📸 Connectivity Test (PING)  
 Verified network communication using the ping command between devices.
 
-![Ping Test](cisco-ping-test.png)
+![Ping Test](cisco-ping-test..PNG)
 
 
 
