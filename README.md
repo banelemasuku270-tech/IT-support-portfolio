@@ -147,7 +147,7 @@ Used CLI commands in Cisco devices to configure interfaces, assign IP addresses,
 #### 📸 IP Address Configuration  
 Configured static IP addresses, subnet masks, and default gateways on end devices to enable network communication.
 
-![PC1 IP](cisco-ip-config-pc1.png)  
+![PC1 IP](cisco-ip-config-pc1.png.PNG)  
 ![PC2 IP](cisco-ip-config-pc2..PNG)
 
 ---
