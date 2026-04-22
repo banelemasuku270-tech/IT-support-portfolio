@@ -127,28 +127,36 @@ Configured the server as a domain controller and verified successful domain setu
 
 ![Domain Setup](ad-domain..png)
 
-### 3.Cisco Packet tracer
+## 3. Cisco Packet Tracer
 
 #### 📸 Network Topology Setup  
 Created a basic network topology using Cisco Packet Tracer including PCs, switches, and a router.
 
-![Network Topology](network-topology..PNG)
+![Network Topology](network-topology.png)
 
-#### 📸 IP Address Configuration
-Configured static IP addresses and subnet mask on end devices to enable network communication.
+---
 
-![IP Config](cisco-ip-config..PNG)
+#### 📸 Router and Switch Configuration (Basic)  
+Used CLI commands in Cisco devices to configure interfaces, assign IP addresses, and verify network connectivity.
 
-![IP Config](cisco-ip-config-pc2..PNG)
+![CLI Router](cisco-cli-router.png)  
+![CLI Switch](cisco-cli-switch.png)
 
-#### 📸 Connectivity Test (PING)
+---
+
+#### 📸 IP Address Configuration  
+Configured static IP addresses, subnet masks, and default gateways on end devices to enable network communication.
+
+![PC1 IP](cisco-ip-config-pc1.png)  
+![PC2 IP](cisco-ip-config-pc2.png)
+
+---
+
+#### 📸 Connectivity Test (PING)  
 Verified network communication using the ping command between devices.
 
-![Ping Test](cisco-ping-test..PNG)
+![Ping Test](cisco-ping-test.png)
 
-#### 📸 Router/Switch Configuration (BASIC ) 
-Used CLI commands to verify network interfaces and device status.
 
-![CLI](cisco-CLI..PNG)
 
-![CLI](CLI-switch..PNG)
+
