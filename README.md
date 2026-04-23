@@ -157,6 +157,15 @@ Verified network communication using the ping command between devices.
 
 ![Ping Test](cisco-ping-test..PNG)
 
+### 4. IT Ticketing (ServiceNow Simulation)
+
+#### 📸 Ticket Creation 
+Created an incident ticket in a ServiceNow simulation environment, capturing user details and issue description.
+
+![Create Ticket](servicenow-ticket-creation.png)
+
+
+
 
 
 
