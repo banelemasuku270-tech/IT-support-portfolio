@@ -187,3 +187,34 @@ Closed the ticket after confirming that the issue was successfully resolved.
 
 ![Ticket Closure](servicenow-ticket-reolved..PNG)
 
+### 5. Hardware Troubleshooting and Repair
+
+#### 📸  Problem Identification
+Computer powers on but fails to boot into the operating system.
+
+![Problem](hardware-diagnostic..PNG)
+
+#### 📸 Troubleshooting
+Performed troubleshooting steps to identify and fix the issue:
+
+- Checked power and cable connections  
+- Removed and reseated RAM modules  
+- Swap SATA cables connected from CD ROM to hard-drive
+- Restarted a the PC after each step to check for changes
+  
+![Troubleshooting](hardware-troubleshoot..PNG)
+
+#### 📸 Verification  
+Verified that the system successfully boots and operates normally.
+
+![Verification](hardware-verification..PNG)
+
+Root Cause
+
+Loose or faulty SATA cable prevented the hard drive from being detected.
+
+Result
+
+System successfully booted after reconnecting/replacing the SATA cable.
+
+
