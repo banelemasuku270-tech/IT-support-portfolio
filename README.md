@@ -162,7 +162,15 @@ Verified network communication using the ping command between devices.
 #### 📸 Ticket Creation 
 Created an incident ticket in a ServiceNow simulation environment, capturing user details and issue description.
 
-![Create Ticket](servicenow-ticket-creation.png)
+![Create Ticket](servicenow-ticket-creation..PNG)
+
+#### 📸 2. Ticket Assignment
+Assigned the ticket to the appropriate support group for resolution.
+
+![Assign Ticket](servienow-ticket-assigned..PNG)
+
+#### 📸 3. Ticket Investigation
+Documented troubleshooting steps and analysis in the ticket work notes.
 
 
 
