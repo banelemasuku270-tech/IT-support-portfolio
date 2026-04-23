@@ -164,16 +164,26 @@ Created an incident ticket in a ServiceNow simulation environment, capturing use
 
 ![Create Ticket](servicenow-ticket-creation..PNG)
 
-#### 📸 2. Ticket Assignment
+#### 📸 Ticket Assignment
 Assigned the ticket to the appropriate support group for resolution.
 
 ![Assign Ticket](servienow-ticket-assigned..PNG)
 
-#### 📸 3. Ticket Investigation
+#### 📸 Ticket Investigation
 Documented troubleshooting steps and analysis in the ticket work notes.
 
+![Ticket Investigation](service-ticket-investigation..PNG)
+
+![Ticket Investigation](service-ticket-troubleshooting..PNG)
 
 
+#### 📸 Issue Resolution
+Resolved the issue and updated the ticket with the solution provided to the user.
 
+![Ticket Resolution](service-ticket-resolution..PNG)
 
+#### 📸 Ticket Closure
+Closed the ticket after confirming that the issue was successfully resolved.
+
+![Ticket Closure](servicenow-ticket-reolved..PNG)
 
