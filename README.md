@@ -190,7 +190,7 @@ Closed the ticket after confirming that the issue was successfully resolved.
 ### 5. Hardware Troubleshooting and Repair
 
 #### 📸  Problem Identification
-Computer powered on but failed to boot into the operating system..
+Computer powered on but failed to boot into the operating system.
 
 ![Problem](hardware-diagnostic..PNG)
 
@@ -199,7 +199,7 @@ Performed troubleshooting steps to identify and fix the issue:
 
 - Checked power and cable connections  
 - Removed and reseated RAM modules  
-- Swapped SATA cables from the CD-ROM to the hard drive
+- Swapped SATA cables between the CD-ROM drive and hard drive to isolate a potential cable fault
 - Restarted the PC after each step to check for changes
   
 ![Troubleshooting](hardware-troubleshoot..PNG)
