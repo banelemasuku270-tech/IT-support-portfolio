@@ -296,13 +296,13 @@ Performed troubleshooting steps to resolve the issue:
 
 
 #### 📸 Resolution  
-Resolved the issue by updating display drivers,reinstalling application and restarting the system.
+Resolved the issue by updating graphics drivers, reinstalling the application, and restarting the system.
 
 ![Resolution](software-app-resolution..PNG)
 
 
 #### 📸 Verification  
-Verified that the application launches successfully and operates normally(menu, features visible).
+Verified that the application launches successfully and operates normally (menus and features accessible).
 
 ![Verification](software-app-verification..PNG)
 
