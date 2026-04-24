@@ -216,12 +216,53 @@ Verified that the system successfully boots and operates normally.
 
 ![Verification](hardware-verification-windows..PNG)
 
-Root Cause
 
-Loose or faulty SATA cable prevented the hard drive from being detected.
+#### 📸 Problem Identification  
+The USB keyboard was not responding when connected to the computer, preventing user input.
 
-Result
+![Problem](hardware-keyboard-problem..PNG)
 
-System successfully booted after reconnecting/replacing the SATA cable.
+
+#### 📸 Initial Inspection  
+Checked physical connection of the USB keyboard and verified that it was properly connected to the system.
+
+![Inspection](hardware-keyboard-inspection..PNG)
+
+
+#### 📸 Diagnostics  
+Checked Device Manager to determine if the keyboard was being detected by the system.
+
+Identified that the device was not responding.
+
+![Diagnostics](hardware-device..PNG)
+
+
+#### 📸 Troubleshooting  
+Performed troubleshooting steps to resolve the issue:
+
+- Checked Device Manager for hardware changes  
+- Identified that Power management USB ROOT HUB properties(tab) was checked so i unchecked it and i updated drivers.
+- Restarted the computer
+  
+![troubleshooting](hardware-keyboard-diagnostic..PNG)
+
+![troubleshooting](hardware-keyboard-update..PNG)
+
+#### 📸 Resolution  
+Resolved the issue by updating usb drivers in device manager and restarted the pc.
+
+![resolution](hardware-keyboard-typing..PNG)
+
+
+#### 📸 Verification  
+Verified that the USB keyboard is now fully functional and responsive.
+
+![verification](hardware-device-verification..PNG)
+
+
+
+
+
+
 
 
