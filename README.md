@@ -261,9 +261,49 @@ Verified that the USB keyboard is now fully functional and responsive.
 ![verification](hardware-device-verification..PNG)
 
 
+## 6. Software Troubleshooting (Windows)
+
+#### 📸 Problem Identification  
+A google application failed to open when launched,it blinks twice and nothing happens.
+
+![Problem](software-app-problem..PNG)
 
 
+#### 📸 Initial Inspection  
+Checked system responsiveness and confirmed that the application was not launching even i tried open it as an administator.
+
+![Inspection](software-app-inspect..png)
 
 
+#### 📸 Diagnostics  
+Used Task Manager to check if the application process was running or unresponsive.
+
+yet it was not running.
+
+![Diagnostics](software-app-inspection..PNG)
+
+
+#### 📸 Troubleshooting  
+Performed troubleshooting steps to resolve the issue:
+
+- Updated graphic drivers in the device manager under display adapters.
+- Uninstalled and installed the programme in settings (apps and features).
+- Restarted the computer (for appps sake to keep changes).
+
+![Troubleshooting](software-app-display..PNG)
+
+![Troubleshooting](software-app-uninstall..PNG)
+
+
+#### 📸 Resolution  
+Resolved the issue by updating display drivers,reinstalling application and restarting the system.
+
+![Resolution](software-app-resolution..PNG)
+
+
+#### 📸 Verification  
+Verified that the application launches successfully and operates normally(menu, features visible).
+
+![Verification](software-app-verification..PNG)
 
 
