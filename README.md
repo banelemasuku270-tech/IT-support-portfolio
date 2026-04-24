@@ -241,7 +241,8 @@ Identified that the device was not responding.
 Performed troubleshooting steps to resolve the issue:
 
 - Checked Device Manager for hardware changes  
-- Identified that Power management USB ROOT HUB properties(tab) was checked so i unchecked it and i updated drivers.
+- Identified that power management settings for the USB Root Hub were enabled .
+- Disabled power management setting and updated USB drivers 
 - Restarted the computer
   
 ![troubleshooting](hardware-keyboard-diagnostic..PNG)
@@ -249,7 +250,7 @@ Performed troubleshooting steps to resolve the issue:
 ![troubleshooting](hardware-keyboard-update..PNG)
 
 #### 📸 Resolution  
-Resolved the issue by updating usb drivers in device manager and restarted the pc.
+Resolved the issue by updating USB drivers in device manager and restarted the PC.
 
 ![resolution](hardware-keyboard-typing..PNG)
 
