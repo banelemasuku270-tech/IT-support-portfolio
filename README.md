@@ -1,20 +1,11 @@
-About Me
+## IT Helpdesk Level 2 Lab – Windows Server, Active Directory & Enterprise Support
 
-- Currently documenting home labs focused on IT Support, Endpoint Security & Threat Detection
-- Learning advanced SIEM, vulnerability management, and cloud security fundamentals
-- Open to:
-  - IT Helpdesk (L1/L2)
-  - Technical Support
-  - Junior Cybersecurity Analyst
-  - SOC Monitoring
-    
-# 🎓 Certifications 
 
-- Google Cybersecurity Professional Certificate  (in progress)
-- Cybersecurity IQ Academy
-  
+Project Overview
+This comprehensive lab simulates a full Level 2 IT Helpdesk / Junior Systems Administrator role in a corporate environment. Built entirely in VirtualBox, I deployed a Windows Server 2016 Domain Controller, configured Active Directory from scratch, managed users/groups/OUs/policies, set up file shares/printers, joined client workstations, implemented security controls, performed remote troubleshooting,worked with ticketing systems, and applied delegation of control.
 
----
+The lab progresses logically from basic server setup through advanced administration, security, remote support, and automation.  
+
 
 ## 🧠 Skills Demonstrated
 
