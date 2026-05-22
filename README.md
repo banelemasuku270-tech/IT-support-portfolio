@@ -1,13 +1,18 @@
-## 👋 About Me
-I am an aspiring IT Support Technician with hands-on experience in:
+About Me
 
-- Active Directory (AD)
-- Windows Server 
-- Cisco Networking Basics
-- ServiceNow Ticketing System
-- Hardware troubleshooting and repair
+- Currently documenting home labs focused on IT Support, Endpoint Security & Threat Detection
+- Learning advanced SIEM, vulnerability management, and cloud security fundamentals
+- Open to:
+  - IT Helpdesk (L1/L2)
+  - Technical Support
+  - Junior Cybersecurity Analyst
+  - SOC Monitoring
+    
+# 🎓 Certifications 
 
-This portfolio demonstrates practical IT support skills in real-world scenarios.
+- Google Cybersecurity Professional Certificate  (in progress)
+- Cybersecurity IQ Academy
+  
 
 ---
 
