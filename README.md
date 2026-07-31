@@ -38,6 +38,13 @@ Bulk user creation script output
 
 ---
 
+#### 📸 Add users and computers
+1,000+ users in OU structure
+
+![ad-users](ad_users.png)
+
+---
+
 #### 📸 Configure Account Details  
 Configured user account details such as login settings and properties.
 
@@ -45,17 +52,12 @@ Configured user account details such as login settings and properties.
 
 ---
 
-
-
 #### 📸 User Verification  
 Confirmed that users are properly created and listed in the domain.
 
 ![User List](ad-user-list.png)
 
 ---
-
-
-
 
 #### 📸 Organising Users into Security Groups  
 Users were assigned to security groups in Active Directory to manage access permissions efficiently.
