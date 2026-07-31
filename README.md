@@ -45,6 +45,13 @@ Confirmed that users are properly created and listed in the domain.
 
 ---
 
+#### 📸 Powershell Automation
+Bulk user creation script output
+
+![Powershell scripts](powershell_script.png)
+
+
+
 #### 📸 Organising Users into Security Groups  
 Users were assigned to security groups in Active Directory to manage access permissions efficiently.
 
