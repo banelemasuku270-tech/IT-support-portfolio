@@ -38,6 +38,13 @@ Configured user account details such as login settings and properties.
 
 ---
 
+#### 📸 Powershell Automation
+Bulk user creation script output
+
+![Powershell scripts](powershell_script.png)
+
+---
+
 #### 📸 User Verification  
 Confirmed that users are properly created and listed in the domain.
 
@@ -45,10 +52,6 @@ Confirmed that users are properly created and listed in the domain.
 
 ---
 
-#### 📸 Powershell Automation
-Bulk user creation script output
-
-![Powershell scripts](powershell_script.png)
 
 
 
