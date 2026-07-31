@@ -300,6 +300,6 @@ Resolved the issue by updating graphics drivers, reinstalling the application, a
 #### 📸 Verification  
 Verified that the application launches successfully and operates normally (menus and features accessible).
 
-![Verification](software-app-verification..PNG)
+![Verification](software-app-verification...PNG)
 
 
